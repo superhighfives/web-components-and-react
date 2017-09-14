@@ -13,7 +13,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 0.75rem;
-  margin: 0;
+  margin: 0 0 0.5rem;
 }
 
 ::shadow p {
